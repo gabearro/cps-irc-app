@@ -1,5 +1,5 @@
 version = "1.0.0"
-author = "Gabriel Arroyo"
+author = "Gabriel Arrouye"
 description = "Native and terminal IRC applications built with the CPS libraries."
 license = "MIT"
 srcDir = "."
